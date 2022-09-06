@@ -1,2 +1,4 @@
+Line added at the top, 
+
 Here's my new file called first 
 it has text too 
